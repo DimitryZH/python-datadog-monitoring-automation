@@ -1,0 +1,19 @@
+# Secrets
+config/secrets.yaml
+
+# Logs
+logs/*.log
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+
